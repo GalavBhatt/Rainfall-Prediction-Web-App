@@ -16,3 +16,5 @@ etc.
 ##### Further, after creation of model a flask based web app is created so that the user can interact with it and leverage the model which we have build.
 
 Web App Predictor Layout
+![Rain_predictor_output](https://user-images.githubusercontent.com/60823367/134361077-8d61d51d-1b75-45ef-a97a-aef8e379e129.png)
+
